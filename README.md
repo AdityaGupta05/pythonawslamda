@@ -9,6 +9,7 @@ What's Here
 
 This sample includes:
 *Demo text added for aws
+*Adding text for manual deployment
 * README.md - this file
 * buildspec.yml - this file is used by AWS CodeBuild to package your
   application for deployment to AWS Lambda
