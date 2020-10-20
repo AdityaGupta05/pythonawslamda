@@ -12,7 +12,7 @@ This sample includes:
 *Adding text for manual deployment
 Modifying 3rd time for EBS\
 
-Modification Test 4th time
+Modification Test 5th time
 * README.md - this file
 * buildspec.yml - this file is used by AWS CodeBuild to package your
   application for deployment to AWS Lambda
